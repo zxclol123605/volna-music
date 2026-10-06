@@ -1,0 +1,6 @@
+{
+  "name": "Волна",
+  "description": "Стильный музыкальный плеер с персональным потоком «Моя волна», караоке-текстами песен и фоновым воспроизведением.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
